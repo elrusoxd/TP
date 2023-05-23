@@ -1,0 +1,26 @@
+body{
+    background-color: burlywood;
+}
+header{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.video{
+    border: 2px solid coral;
+    float: left;
+}
+.texto{
+    overflow: auto;
+    overflow-wrap: break-word;
+    margin-bottom: 120px;
+}
+.galeria{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fotos{
+    margin-right: 150px;
+    margin-left: 150px;
+}

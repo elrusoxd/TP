@@ -1,0 +1,69 @@
+body{
+    background-color: burlywood;
+}
+.menu{
+    display: inline-block;
+    margin-right: 30px;
+    
+
+}
+.logo{
+    float: left;
+    padding: 5px;
+    margin: 16px;
+    
+    
+}
+.imgf40{
+    float: left;
+    border: 2px solid coral;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+
+}
+.div1{
+    overflow: auto;
+    background-color: aquamarine;
+    border:2px solid gray;
+    margin-top: 0.3cm;
+    
+    
+}
+p.div1{
+    overflow: auto;
+    border: none;
+    overflow-wrap: break-word;
+}
+p.div2{
+    overflow:auto;
+    border: none;
+    overflow-wrap: break-word;
+}
+.div2{
+    overflow: auto;
+    background-color: aquamarine;
+    border:2px solid gray;
+    margin-top: 4px;
+}
+.imgf1{
+    float: right;
+    border: 2px solid coral;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    height: 3.5cm;
+    width: 6cm;
+}
+.hr1{
+    border: 2px solid blue;
+    margin-top: 2.2cm;
+}
+.hr2{
+    border: 2px solid blue;
+}
+.redessociales{
+    display: inline-block;
+}

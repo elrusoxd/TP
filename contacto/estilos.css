@@ -1,0 +1,7 @@
+body{
+    background-color: burlywood;
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+}
