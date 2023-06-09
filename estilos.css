@@ -1,9 +1,11 @@
 body{
-    background-color: burlywood;
+    background-color: lightblue;
 }
 .menu{
+    text-shadow: 2px 3px 2px blueviolet;
     display: inline-block;
     margin-right: 30px;
+    
     
 
 }
@@ -25,7 +27,7 @@ body{
 }
 .div1{
     overflow: auto;
-    background-color: aquamarine;
+    background-color: gray;
     border:2px solid gray;
     margin-top: 0.3cm;
     
@@ -43,7 +45,7 @@ p.div2{
 }
 .div2{
     overflow: auto;
-    background-color: aquamarine;
+    background-color: gray;
     border:2px solid gray;
     margin-top: 4px;
 }
